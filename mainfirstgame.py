@@ -1,5 +1,5 @@
 import random
-
+ 
 random=random.choice(range(1,100))
 count=1
 guess=input("please enter a number from 1 to 100")
